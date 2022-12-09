@@ -15,7 +15,7 @@ cahier des charges :
    - niveaux de difficultés variés
    - NPC qui guide et donne les règles du jeu
    - musique de fond + effets sonores
-   - 
+   - sur Pyxel
 
 
 
