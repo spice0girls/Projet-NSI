@@ -1,4 +1,4 @@
-# Projet-NSI
+# Projet-NSI: Tiny Adventurer
 de Alis Moltenis, Nicole Pedersen et Sophia Blair
 
 sujet: jeu d'aventure avec scenario où le but est de finir le jeu. Il y aurait donc des quests à effectuer (minigames? comme des petits labyrintes ou énigmne, level final du type mario, casse tête).
