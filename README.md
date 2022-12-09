@@ -21,6 +21,6 @@ cahier des charges :
 
 
 Info: 
--récompense à cahque niveau/mission qui permet d'atteindre un objectif 
--doit être adaptable à la taille de l'écran.
--faire une intro stylé
+  - récompense à cahque niveau/mission qui permet d'atteindre un objectif 
+  - doit être adaptable à la taille de l'écran.
+  - faire une intro stylé
