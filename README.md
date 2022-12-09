@@ -6,11 +6,11 @@ sujet: jeu d'aventure avec scenario où le but est de finir le jeu. Il y aurait 
   
 
 cahier des charges :
-   - jumanji(pour l'univers)/zelda(quêtes)
+   - inspiration: jumanji(pour l'univers)/zelda(quêtes)
    - clavier et souris
    - 1 seul joueur
    - 2D
-   - pas plus de 5
+   - pas plus de 5 niveau
    - mini games qui donnent des recompenses, points/ 3 vies qui se rechargent au fur et à mesure jeu en continu
    - niveaux de difficultés variés
    - NPC qui guide et donne les règles du jeu
