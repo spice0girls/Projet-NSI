@@ -20,7 +20,10 @@ cahier des charges :
 
 
 
-Info: 
+Info en plus: 
   - récompense à cahque niveau/mission qui permet d'atteindre un objectif 
   - doit être adaptable à la taille de l'écran.
   - faire une intro stylé
+
+Lien inspiration pour minigames:
+  - https://www.minigames.com/fr/games/rolling-ball
