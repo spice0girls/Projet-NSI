@@ -5,7 +5,7 @@ sujet: jeu d'aventure avec scenario où le but est de finir le jeu. Il y aurait 
   
 
 cahier des charges :
-   - inspiration: jumanji(pour l'univers)/zelda(quêtes)
+   - inspiration: jumanji(pour l'univers)/zelda(quêtes)/stardew valley
    - clavier et souris
    - 1 seul joueur
    - 2D
