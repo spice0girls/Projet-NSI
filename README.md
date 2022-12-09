@@ -29,3 +29,5 @@ Lien inspiration pour minigames:
   - https://www.minigames.com/fr/games/rolling-ball
   - https://www.minigames.com/fr/games/block-hexa-puzzle-online
   - https://www.minigames.com/fr/games/flow-mania
+  - https://themightyglider.itch.io/roguebox-adventures
+  - https://zyenapz.itch.io/caffeine-fueled
