@@ -27,3 +27,4 @@ Info en plus:
 
 Lien inspiration pour minigames:
   - https://www.minigames.com/fr/games/rolling-ball
+  - https://www.minigames.com/fr/games/block-hexa-puzzle-online
