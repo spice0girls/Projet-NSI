@@ -6,7 +6,7 @@ sujet: jeu d'aventure avec scenario où le but est de finir le jeu. Il y aurait 
 cahier des charges :
 Il faut parcourir une map à la recherche d'objet qu'on récupère en reussissant des minijeux. Il faut ces objets pour pouvoir reussir le "heist" à la fin du jeu pour enfin en resortir. On aurait alors 3 vies dans le jeu qu'on perd en perdant au minijeux (dépasse un nombre d'essai, apres tel temps, en se faisant ratrapé, en topmbant, etc) et qu'on récupère au fil du temps (1 vie toute les 8 minuttes). On est guidé et aidé par un NPC comme dans jumanji.
 
-   - inspiration: jumanji(pour l'univers)/zelda(quêtes)/stardew valley
+   - inspiration: jumanji(pour l'univers)/zelda(quêtes)/stardew valley(aesthétic)
    - clavier et souris dépendant de si on est sur la map où dans un minijeu.
    - 1 seul joueur
    - 2D, de haut sur la map, et  les minigames en plain ecran quand on est entrain de la faire.
