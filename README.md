@@ -18,8 +18,13 @@ Il faut parcourir une map à la recherche de clés qu'on récupère en reussissa
    - fait sur Pyxel
  
  niveau 1:
-   - sauter au dessus des précipices
+  - sauter au dessus des précipices, lent (tutoriel)
+
 niveau 2:
+ - eviter les obstacles
+
+niveau 3:
+ - enemis+projectiles à éliminer
 
 
  
