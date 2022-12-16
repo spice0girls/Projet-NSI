@@ -10,13 +10,19 @@ Il faut parcourir une map à la recherche de clés qu'on récupère en reussissa
    - clavier pour se déplacer sur la map et dans les niveaux
    - 1 seul joueur
    - 2D, de haut sur la map, de profil dans les niveaux (style mario)
-   - 3 niveaux
+   - 3 niveaux du jeu type mario
    - récompense à chaque niveau: clés 
    - 3 vies(se perdent en jouant) et se recharge sur la map(espace pour dormir/manger)
    - NPC qui guide et donne les règles du jeu
    - musique de fond + effets sonores (bruit de pas, de jungle?)
    - fait sur Pyxel
  
+ Le niveau final (qui contient la totalité des obstacles et des ennemis) a:
+   - trou (qu'il faut éviter)
+   - plateforme plus haute ("sol" de différentes hauteur) et plateforme volante (qui ne bouge pas) pour éviter plus facilement les obstacles.
+   - obstacle a éviter (comme les fleurs dans mario)
+   - enemis avec des projectils qu'on peut tué en sautant dessus
+   
  niveau 1:
   - sauter au dessus des précipices, lent (tutoriel)
 
