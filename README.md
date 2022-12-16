@@ -11,11 +11,18 @@ Il faut parcourir une map à la recherche de clés qu'on récupère en reussissa
    - 1 seul joueur
    - 2D, de haut sur la map, de profil dans les niveaux
    - 3 niveaux
-   - récompense à chaque niveau: clés, 3 vies qui se rechargent au cours du temps
+   - récompense à chaque niveau: clés 
+   - 3 vies(se perdent en jouant) et se recharge sur la map(espace pour dormir/manger)
    - NPC qui guide et donne les règles du jeu
    - musique de fond + effets sonores (bruit de pas, de jungle?)
    - fait sur Pyxel
-   
+ 
+ niveau 1:
+   - sauter au dessus des précipices
+niveau 2:
+
+
+ 
 (Idées de minigames
   - https://www.minigames.com/fr/games/rolling-ball
   - https://www.minigames.com/fr/games/block-hexa-puzzle-online
