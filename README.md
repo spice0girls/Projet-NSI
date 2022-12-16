@@ -16,6 +16,7 @@ Il faut parcourir une map à la recherche de clés qu'on récupère en reussissa
    - NPC qui guide et donne les règles du jeu
    - musique de fond + effets sonores (bruit de pas, de jungle?)
    - fait sur Pyxel
+   - menu a l'ouverture avec 3 options: commencer le jeu, quitter le jeu et crédits 
  
  Le niveau final (qui contient la totalité des obstacles et des ennemis) a:
    - trou (qu'il faut éviter)
