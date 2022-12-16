@@ -35,9 +35,4 @@ niveau 3:
 
 
 
-Info en plus: 
-  - doit être adaptable à la taille de l'écran.
-  - faire une intro stylé (vidéo, animation)
-
-
   
