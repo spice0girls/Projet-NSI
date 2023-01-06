@@ -1,19 +1,23 @@
 import pyxel
 pyxel.init(256, 256, title="Tiny Adventurer")
 perso_x = 128
-perso_y = 248
+perso_y = 182
 
 def perso_deplacement(x, y):
     if pyxel.btn(pyxel.KEY_RIGHT):
         if (x < 256) :
-            x = x + 1
+            x = x + 3
     if pyxel.btn(pyxel.KEY_LEFT):
         if (x > 0) :
-            x = x - 1
+            x = x - 3
     if pyxel.btn(pyxel.KEY_SPACE):
-        if (y > 0) :
-            y = y - 1
+        if (y > 178) :
+            y = y - 50
+    if y<182:
+        y= y+2
     return x, y
+    
+    
 
 # =========================================================
 # == UPDATE
