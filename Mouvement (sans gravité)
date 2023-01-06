@@ -14,7 +14,7 @@ def perso_deplacement(x, y):
         if (y > 178) :
             y = y - 50
     if y<182:
-        y= y+2
+        y= y+4
     return x, y
     
     
