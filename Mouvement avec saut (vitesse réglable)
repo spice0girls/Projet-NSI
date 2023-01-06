@@ -1,0 +1,43 @@
+import pyxel
+pyxel.init(256, 256, title="Tiny Adventurer")
+perso_x = 128
+perso_y = 182
+jump= False
+i=0
+
+def perso_deplacement(x, y,jump,i):
+    if pyxel.btn(pyxel.KEY_RIGHT):
+        if (x < 256) :
+            x = x + 3
+    if pyxel.btn(pyxel.KEY_LEFT):
+        if (x > 0) :
+            x = x - 3
+    if pyxel.btn(pyxel.KEY_SPACE):
+        jump= True
+    if jump == True:
+        if i < 8:
+            y= y - 7
+            i= i + 1
+        else: 
+            if i < 15:
+                y= y + 8
+                i+= 1
+            else: jump = False
+    else: i=0
+    return x, y,jump,i
+    
+    
+def update():
+    """mise à jour des variables (30 fois par seconde)"""
+
+    global perso_x, perso_y,jump,i
+    perso_x, perso_y,jump,i = perso_deplacement(perso_x, perso_y,jump,i)
+
+
+def draw():
+    """création des objets (30 fois par seconde)"""
+
+    pyxel.cls(0)
+    pyxel.rect(perso_x, perso_y, 8, 8, 1)
+
+pyxel.run(update, draw)
