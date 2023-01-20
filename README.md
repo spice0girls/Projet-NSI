@@ -34,6 +34,6 @@ niveau 3:
  - enemis+projectiles à éliminer
 
 Avancement du 20 janvier:
-regarder le document nommé: mouvement avec saut (vitesse réglable), pour voir le programme le plus avancé
-debut avancementintro
+regarder le document nommé: Plateforme.py - (correction des bugs)
+avancement intro
   
