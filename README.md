@@ -33,7 +33,7 @@ niveau 2:
 niveau 3:
  - enemis+projectiles à éliminer
 
-Avancement du 6 janvier:
+Avancement du 20 janvier:
 regarder le document nommé: mouvement avec saut (vitesse réglable), pour voir le programme le plus avancé
-
+debut avancementintro
   
