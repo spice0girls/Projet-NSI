@@ -33,7 +33,7 @@ niveau 2:
 niveau 3:
  - enemis+projectiles à éliminer
 
-Avancement du 20 janvier:
-regarder le document nommé: Plateforme.py - (correction des bugs)
-avancement intro
+Avancement du 20 janvier: correction des bugs et avancement intro.
+regarder le document nommé: Plateforme.py 
+
   
