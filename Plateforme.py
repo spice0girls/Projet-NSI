@@ -95,9 +95,9 @@ def update():
     
     perso_x, perso_y,jump,scroll,last_scroll,last_floor,monte,descente = perso_deplacement(perso_x, perso_y, jump, scroll, last_scroll, last_floor, monte, descente)
     if scroll == 1 or scroll == 3 or scroll == 5 or scroll == 18 or scroll == 20 or scroll == 22 :
-        plateforme_creation(plateforme_liste,230,130)
+        plateforme_creation(plateforme_liste,256,130)
     if scroll == 30 or scroll == 32 or scroll == 34 or scroll == 10 or scroll == 12 or scroll == 14:
-        plateforme_creation(plateforme_liste,230,90)
+        plateforme_creation(plateforme_liste,256,90)
     if last_scroll != scroll:
       plateforme_liste=plateforme_deplacement(plateforme_liste)
     floor=floor_is(floor)
