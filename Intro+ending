@@ -1,3 +1,5 @@
+
+#intro:
 import pyxel
 
 pyxel.init(256, 256, title="Hello Pyxel")
@@ -12,3 +14,7 @@ def draw():
     pyxel.blt(80, 100, 0, 0, 0, 96, 32)
     
 pyxel.run(update, draw)
+
+#ending pop up:
+
+pyxel.blt(80, 100, 0, 0, 40, 64, 40, 0)
