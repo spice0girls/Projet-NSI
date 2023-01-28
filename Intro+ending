@@ -11,10 +11,10 @@ def update():
 def draw():
     pyxel.cls(0)
     pyxel.text(75, 20, "press any button to start", 7)
-    pyxel.blt(80, 100, 0, 0, 0, 96, 32)
+    pyxel.blt(85, 100, 0, 0, 48, 80, 32)
     
 pyxel.run(update, draw)
 
 #ending pop up:
 
-pyxel.blt(80, 100, 0, 0, 40, 64, 40, 0)
+pyxel.blt(90, 100, 0, 16, 96, 80, 32, 0)
