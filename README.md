@@ -34,5 +34,6 @@ niveau 3:
  - enemis+projectiles à éliminer
 
 Avancement du 27 janvier: ajout des doc pyxres (graphique et musique) + persos
+Pour denier update voir doc progres27_01 avec art1(1).pyxres (doit être renomé à art1.pyxres pour être correctement chargé dans le jeu)
 
   
