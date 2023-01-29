@@ -91,8 +91,7 @@ def plateforme_deplacement(plaforme_liste):
 
 def floor_is(floor):
     for plateforme in plateforme_liste:
-        if perso_y + taille_perso_y <= plateforme[1] and perso_x + taille_perso_x > plateforme[0] and perso_x < \
-                plateforme[0] + taille_plateforme:
+        if perso_y + taille_perso_y <= plateforme[1] and perso_x + taille_perso_x > plateforme[0] and perso_x < plateforme[0] + taille_plateforme:
             floor = plateforme[1]
             return floor
     floor = 190
@@ -111,11 +110,7 @@ def update():
     if scroll >= 120:
         playing = 2
     if playing == 1:
-        perso_x, perso_y, jump, scroll, last_scroll, last_floor, monte, descente = perso_deplacement(perso_x, perso_y,
-                                                                                                     jump, scroll,
-                                                                                                     last_scroll,
-                                                                                                     last_floor, monte,
-                                                                                                     descente)
+        perso_x, perso_y, jump, scroll, last_scroll, last_floor, monte, descente = perso_deplacement(perso_x, perso_y, jump, scroll, last_scroll, last_floor, monte, descente)
         if scroll == 1 or scroll == 3 or scroll == 5 or scroll == 16 or scroll == 18 or scroll == 20:
             plateforme_creation(plateforme_liste, 230, 130)
         if scroll == 30 or scroll == 32 or scroll == 34 or scroll == 10 or scroll == 12 or scroll == 14:
