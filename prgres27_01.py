@@ -132,13 +132,13 @@ def draw():
     if playing == 0:
         pyxel.text(95, 20, "press s to start", 7)
         pyxel.text(96, 230, "press q to quit", 7)
-        pyxel.blt(80, 100, 0, 0, 0, 96, 32)
+        pyxel.blt(85, 100, 0, 0, 48, 80, 32)
     if playing == 1:
         pyxel.blt(perso_x, perso_y, 0, 4, 25, taille_perso_x, taille_perso_y, 6)
         for plateforme in plateforme_liste:
             pyxel.blt(plateforme[0], plateforme[1], 0, 16, 8, taille_plateforme, taille_plateforme)
     if playing == 2:
-        pyxel.blt(80, 100, 0, 0, 40, 64, 40, 0)
+        pyxel.blt(90, 100, 0, 16, 96, 80, 32, 0)
 
 
 pyxel.run(update, draw)
