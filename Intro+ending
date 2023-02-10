@@ -18,3 +18,7 @@ pyxel.run(update, draw)
 #ending pop up:
 
 pyxel.blt(90, 100, 0, 16, 96, 80, 32, 0)
+
+# game over
+
+pyxel.blt(90, 100, 0, 0, 136, 80, 32, 0)
