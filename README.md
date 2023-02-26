@@ -39,4 +39,4 @@ Avancement du 27 janvier: ajout des doc pyxres (graphique et musique) + persos
 
 Avancement du 10 février: ajout de niveau et d'un menu pour choisir le niveau voulu. Ajout de vies. 
 
-Avancement des vacances d'hiver: ajout de projectiles en lien avec les ennemies. Pour dernier update ouvrir projectiles_vacances.py et art1_.pyxres
+Avancement des vacances d'hiver: ajout de projectiles en lien avec les ennemies et d'ennemi qui reste sur leur plateforme. Pour dernier update ouvrir update_ennemi_vacances.py et art1_.pyxres
