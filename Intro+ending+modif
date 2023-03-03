@@ -22,3 +22,16 @@ pyxel.blt(90, 100, 0, 16, 96, 80, 32, 0)
 # game over
 
 pyxel.blt(90, 100, 0, 0, 136, 80, 32, 0)
+
+
+#to change :
+
+#fond
+pyxel.bltm()
+
+#ligne 47
+taille_ennemi_y = 8
+taille_ennemi_x = 8
+
+#ennemie = abeilles
+pyxel.blt(taille_ennemi_x, taille_ennemi_y, 0, 38, 29, 4, 4, 0)
