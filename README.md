@@ -33,7 +33,7 @@ niveau 2:
 niveau 3:
  - enemis+projectiles à éliminer
 
-lien vers le pre-view: https://www.pyxelstudio.net/ps/x2t8fja6
+lien vers le pre-view: https://www.pyxelstudio.net/ps/x4u6epzf
 
 Avancement du 27 janvier: ajout des doc pyxres (graphique et musique) + persos
 
@@ -41,4 +41,6 @@ Avancement du 10 février: ajout de niveau et d'un menu pour choisir le niveau v
 
 Avancement des vacances d'hiver: ajout de projectiles en lien avec les ennemies et d'ennemi qui reste sur leur plateforme.
 
-Avancement du 3 février: ajout d'image pour ennemies et de description + optimisation du code.  Pour dernier update ouvrir 09_03_23_3.py et art1_(3).pyxres
+Avancement du 3 mars: ajout d'image pour ennemies et de description + optimisation du code.
+
+Avancement du 10 mars: réglage de bug ennemies sur plateforme, création du niveau 1 + ajout de fond. Pour dernier update voir 10_03_23_3 et art1_3.pyxres
