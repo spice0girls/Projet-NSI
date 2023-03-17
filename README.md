@@ -33,7 +33,7 @@ niveau 2:
 niveau 3:
  - enemis+projectiles à éliminer
 
-lien vers le pre-view: https://www.pyxelstudio.net/ps/x4u6epzf
+lien vers le pre-view: https://www.pyxelstudio.net/ps/p3dmqzag 
 
 Avancement du 27 janvier: ajout des doc pyxres (graphique et musique) + persos
 
