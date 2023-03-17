@@ -43,4 +43,6 @@ Avancement des vacances d'hiver: ajout de projectiles en lien avec les ennemies 
 
 Avancement du 3 mars: ajout d'image pour ennemies et de description + optimisation du code.
 
-Avancement du 10 mars: réglage de bug ennemies sur plateforme, création du niveau 1 + ajout de fond. Pour dernier update voir 10_03_23_3 et art1_3.pyxres
+Avancement du 10 mars: réglage de bug ennemies sur plateforme, création du niveau 1 + ajout de fond. 
+
+Avancement du 17 mars: ajout de fleur et de point + animation du personnage + détachement des arbres du fond pour qu'ils bougent avec les plateformes. Pour dernier update voir 17_03_23_4 et art1_3.pyxres
