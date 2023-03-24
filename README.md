@@ -33,7 +33,7 @@ niveau 2:
 niveau 3:
  - enemis+projectiles à éliminer
 
-lien vers le pre-view: https://www.pyxelstudio.net/ps/p3dmqzag 
+lien vers le pre-view: https://www.pyxelstudio.net/ps/3y5r7asg
 
 Avancement du 27 janvier: ajout des doc pyxres (graphique et musique) + persos
 
@@ -45,10 +45,14 @@ Avancement du 3 mars: ajout d'image pour ennemies et de description + optimisati
 
 Avancement du 10 mars: réglage de bug ennemies sur plateforme, création du niveau 1 + ajout de fond. 
 
-Avancement du 17 mars: ajout de fleur et de point + animation du personnage + détachement des arbres du fond pour qu'ils bougent avec les plateformes. Pour dernier update voir 17_03_23_4 et art1_3.pyxres
+Avancement du 17 mars: ajout de fleur et de point + animation du personnage + détachement des arbres du fond pour qu'ils bougent avec les plateformes. 
+
+Avancement du 24 mars: ajout de graphique pour projectile + ajout d'étoile + bruitage et nouvelle musique + niveau 3 (pas encore dnas le doc)Pour dernier update voir 24_03_23_2 et art1_3.pyxres
 
 
 Notes sur les effets sonores:
-00: musique
-01: ennemi
-02:fleur
+00: test, 
+01: ennemi, 
+02:fleur, 
+03 et 04: musique normale (aigu), 
+05 et 06: la basse de la musique
