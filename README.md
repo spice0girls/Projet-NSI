@@ -51,4 +51,4 @@ Avancement du 17 mars: ajout de fleur et de point + animation du personnage + d√
 Notes sur les effets sonores:
 00: musique
 01: ennemi
-02:
+02:fleur
