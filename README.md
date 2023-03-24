@@ -46,3 +46,9 @@ Avancement du 3 mars: ajout d'image pour ennemies et de description + optimisati
 Avancement du 10 mars: réglage de bug ennemies sur plateforme, création du niveau 1 + ajout de fond. 
 
 Avancement du 17 mars: ajout de fleur et de point + animation du personnage + détachement des arbres du fond pour qu'ils bougent avec les plateformes. Pour dernier update voir 17_03_23_4 et art1_3.pyxres
+
+
+Notes sur les effets sonores:
+00: musique
+01: ennemi
+02:
