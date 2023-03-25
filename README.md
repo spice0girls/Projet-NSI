@@ -1,37 +1,35 @@
 # Projet-NSI: Tiny Adventurer
 de Alis Moltenis, Nicole Pedersen et Sophia Blair
 
-sujet: jeu d'aventure avec scenario où le but est de finir le jeu. Il y aurait donc des quests à effectuer (level du type mario). idées de scénario/theme : jumanji
+sujet: jeu d'aventure où le but est de finir les niveaux. Il y aurait donc des levels à effectuer (level du type mario). idées de scénario/theme : jumanji
 
 cahier des charges :
-Il faut parcourir une map à la recherche de clés qu'on récupère en reussissant chaque niveau. Il faut ces clés pour pouvoir enfin resortir du jeu. On aurait alors 3 vies dans le jeu qu'on perd en mourrant et qu'on récupère sur la map(espace pour dormir/manger). On est guidé par un NPC comme dans jumanji.
+Il faut récuperer le plus de fleurs possibles dans les differents niveaux, On aurait alors 3 vies dans le jeu qu'on perd en touchant une abeille ou un projectile.Une fleur rapporte 25 points.
 
    - inspiration: jumanji(pour l'univers)/ mario bros(niveaux à compléter)/stardew valley(aesthétic)
-   - clavier pour se déplacer sur la map et dans les niveaux
+   - clavier pour se déplacer dans les niveaux
    - 1 seul joueur
-   - 2D, de haut sur la map, de profil dans les niveaux (style mario)
-   - 3 niveaux du jeu type mario
-   - récompense à chaque niveau: clés 
-   - 3 vies(se perdent en jouant) et se recharge sur la map(espace pour dormir/manger)
-   - NPC qui guide et donne les règles du jeu
-   - musique de fond + effets sonores (bruit de pas, de jungle?)
+   - 2D de profil dans les niveaux (style mario)
+   - 3 niveaux de difficultée croissante
+   - score à chaque niveau: fleur 
+   - 3 vies(qui se rechargent à chaque nouvelle partie)
+   - musique de fond + effets sonores (musique assez neutre, ambiance apaisante)
    - fait sur Pyxel
-   - menu a l'ouverture avec 3 options: commencer le jeu, quitter le jeu et crédits 
+   - menu a l'ouverture avec options: quitter, choisir un niveaux ou commencer par le 1 puis 2 puis 3
  
  Le niveau final (qui contient la totalité des obstacles et des ennemis) a:
-   - trou (qu'il faut éviter)
-   - plateforme plus haute ("sol" de différentes hauteur) et plateforme volante (qui ne bouge pas) pour éviter plus facilement les obstacles.
-   - obstacle a éviter (comme les fleurs dans mario)
-   - enemis avec des projectils qu'on peut tué en sautant dessus
+   - plateforme(de différentes hauteur) pour éviter plus facilement les obstacles.
+   - enemis à éviter (abeilles)
+   - abeilles qui lancent des projectiles à éviter
    
  niveau 1:
-  - sauter au dessus des précipices, lent (tutoriel)
+  - éviter quelques abeilles, lent (tutoriel)
 
 niveau 2:
- - eviter les obstacles
+ - eviter les abeilles qui seront plus nombreuses
 
 niveau 3:
- - enemis+projectiles à éliminer
+ - enemis+projectiles 
 
 lien vers le pre-view: https://www.pyxelstudio.net/ps/3y5r7asg
 
