@@ -1,7 +1,8 @@
 # Projet-NSI: Tiny Adventurer
 de Alis Moltenis, Nicole Pedersen et Sophia Blair
 
-sujet: jeu d'aventure où le but est de finir les niveaux. Il y aurait donc des levels à effectuer (level du type mario). idées de scénario/theme : jumanji
+sujet: jeu d'aventure où le but est de finir les niveaux. Il y aurait donc des levels à effectuer (level du type mario). 
+idées de scénario/theme : jumanji
 
 # Cahier des charges :
 Il faut récuperer le plus de fleurs possibles dans les differents niveaux, On aurait alors 3 vies dans le jeu qu'on perd en touchant une abeille ou un projectile.Une fleur rapporte 25 points. A la fin d'un niveau on obtient entre 0 et 3 étoiles dépendent du nombre de fleur qu'on a récuperer et du nombre totale de fleur présente.
