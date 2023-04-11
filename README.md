@@ -1,7 +1,9 @@
 # Projet-NSI: Tiny Adventurer
 de Alis Moltenis, Nicole Pedersen et Sophia Blair
 
+
 sujet: jeu d'aventure où le but est de finir les niveaux. Il y aurait donc des levels à effectuer (level du type mario). 
+
 idées de scénario/theme : jumanji
 
 # Cahier des charges :
@@ -33,6 +35,7 @@ niveau 3:
  - enemis+projectiles 
 
 lien vers le pre-view: https://www.pyxelstudio.net/ps/3y5r7asg
+
 
 # Avancement
 
