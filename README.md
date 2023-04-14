@@ -55,7 +55,7 @@ Avancement du 24 mars: ajout de graphique pour projectile + ajout d'étoile + br
 
 Avancement du 7 avril: ajout de phrase d'introduction (avec les commandes nécessaires pour jouer) sur l'écran au début du niveau 1 + création de nouveau avatar dans le pyxres (devra être ajouté dans le code) 
 
-Avancement du 14 avril: ajout de playing 5 correspondant a une page pour choisir son avatar. Pour dernier update voir 14_04_23_2 et art1_3(1).pyxres (penser a changer le nom du document pyxres à "art1_3.pyxres" pour effectuer le code) 
+Avancement du 14 avril: ajout de playing 5 correspondant a une page pour choisir son avatar. Pour dernier update voir 14_04_23_3 et art1_3.pyxres 
 
 
 
